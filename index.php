@@ -105,7 +105,7 @@
                         <img class="card-img-top" src="images/menu2.png" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title"> Burger Sampah Double Ampang </h5>
-                            <p class="card-text">Price:Rs 300</p>
+                            <p class="card-text">Price:RM 17.90</p>
                             <button class="btn btn-danger" type="submit" name="add">Add to Cart</button>
                             <input type="hidden" name="item_name" value="Stacky Zinger">
                             <input type="hidden" name="item_price" value="300">
