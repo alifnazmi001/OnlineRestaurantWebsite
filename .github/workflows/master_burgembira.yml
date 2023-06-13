@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Burgembira'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30F04756E4094C8481125E1EF693A4F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41547642219048398585810E6E36B3D3 }}
           package: .
