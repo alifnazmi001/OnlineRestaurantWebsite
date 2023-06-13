@@ -73,7 +73,7 @@
                     <div class="card" style="width: 18rem;">
                         <img class="card-img-top" src="images/menu1.png" alt="Card image cap">
                         <div class="card-body">
-                            <h5 class="card-title">Family Festival 1</h5>
+                            <h5 class="card-title">Burgembira Bersama Family</h5>
                             <p class="card-text">Price:Rs 1000
 
                             </p>
@@ -90,8 +90,8 @@
                     <div class="card" style="width: 18rem;">
                         <img class="card-img-top" src="images/menu3.png" alt="Card image cap">
                         <div class="card-body">
-                            <h5 class="card-title">Zinger</h5>
-                            <p class="card-text">Price:Rs 500</p>
+                            <h5 class="card-title">Burger Sampah Ampang </h5>
+                            <p class="card-text">Price:RM 13.90</p>
                             <button class="btn btn-danger" type="submit" name="add">Add to Cart</button>
                             <input type="hidden" name="item_name" value="Zinger">
                             <input type="hidden" name="item_price" value="500">
@@ -104,7 +104,7 @@
                     <div class="card" style="width: 18rem;">
                         <img class="card-img-top" src="images/menu2.png" alt="Card image cap">
                         <div class="card-body">
-                            <h5 class="card-title"> Stacky Zinger </h5>
+                            <h5 class="card-title"> Burger Sampah Double Ampang </h5>
                             <p class="card-text">Price:Rs 300</p>
                             <button class="btn btn-danger" type="submit" name="add">Add to Cart</button>
                             <input type="hidden" name="item_name" value="Stacky Zinger">
