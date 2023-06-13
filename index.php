@@ -74,7 +74,7 @@
                         <img class="card-img-top" src="images/menu1.png" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Burgembira Bersama Family</h5>
-                            <p class="card-text">Price:RM 79.90
+                            <p class="card-text">Price:RM 79.80
 
                             </p>
                             <button class="btn btn-danger" type="submit" name="add">Add to Cart</button>
